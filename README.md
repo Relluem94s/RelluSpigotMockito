@@ -1,6 +1,6 @@
 ![RelluSpigotMockito](https://img.relluem94.de/logos/app/relluspigotmockito.png)
 
-### a Java Libary for testing Spigot Plugin 
+### a Java Library for testing Spigot Plugin 
 
 ## Development / Build
 1. ```shell
