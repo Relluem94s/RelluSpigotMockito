@@ -1,4 +1,4 @@
-![RelluSpigotMockito](https://img.relluem94.de/logos/app/relluspigotmockito.png)
+![RelluSpigotMockito](https://static.relluem94.de/logos/app/relluspigotmockito.png)
 
 ### a Java Library for testing Spigot Plugin 
 
